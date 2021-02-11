@@ -1,3 +1,5 @@
+### 未完成 ###
+
 array = gets.split.map(&:to_i)
 w = array[0] # 美術館の床の横幅
 h = array[1] # 美術館の床の縦幅
